@@ -6,6 +6,8 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 
 public class HistoriaDeAutomatizacion_Stepdef {
     basePage basePage=new basePage();
@@ -30,6 +32,7 @@ public class HistoriaDeAutomatizacion_Stepdef {
     }
     @Then("user takes screenshot of the page")
     public void user_takes_screenshot_of_the_page() {
-        
+        byte[] screenshot = ((TakesScreenshot)Driver.getDriver()).getScreenshotAs(OutputType.BYTES);
+
     }
 }
