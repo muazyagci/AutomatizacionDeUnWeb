@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="670a65c3-3f81-4f43-96d4-93ec2a095da1" name="Changes" comment="Fourth Commit Verification of the primer proceso automático, and taking screenshot.">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/TratamientoDeDatosEnAPI.feature" afterDir="false" />
+    <list default="true" id="670a65c3-3f81-4f43-96d4-93ec2a095da1" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/BugReport.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Zara/POJO/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Zara/POJO/SoldPets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Zara/POJO/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Zara/POJO/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Zara/step_definitions/ApiCalls_Stepdef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$gReport.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/Zara/pages/basePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Zara/pages/basePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Zara/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Zara/runners/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/TratamientoDeDatosEnAPI.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/TratamientoDeDatosEnAPI.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +51,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -96,7 +103,9 @@
       <workItem from="1696875007341" duration="3091000" />
       <workItem from="1696882849813" duration="795000" />
       <workItem from="1696895663704" duration="3779000" />
-      <workItem from="1696936972156" duration="255000" />
+      <workItem from="1696936972156" duration="277000" />
+      <workItem from="1696946663048" duration="1583000" />
+      <workItem from="1696965916978" duration="5690000" />
     </task>
     <task id="LOCAL-00001" summary="Second Commit:Attempts for finding The wiki page and clicking to it">
       <created>1696878203847</created>
@@ -119,16 +128,25 @@
       <option name="project" value="LOCAL" />
       <updated>1696899372353</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1696946644332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696946644332</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Second Commit:Attempts for finding The wiki page and clicking to it" />
     <MESSAGE value="Third Commit" />
     <MESSAGE value="Fourth Commit Verification of the primer proceso automático, and taking screenshot." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth Commit Verification of the primer proceso automático, and taking screenshot." />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
